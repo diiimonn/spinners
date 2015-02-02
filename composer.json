@@ -1,0 +1,17 @@
+{
+    "name": "diiimonn/spinners",
+    "description": "Spinners using canvas and jquery",
+    "keywords": ["spinners", "canvas", "jquery"],
+    "homepage": "https://github.com/diiimonn/spinners",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy Gavrilenko",
+            "email": "diiimonn@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/jquery": ">=1.8"
+    }
+}
