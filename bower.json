@@ -5,12 +5,13 @@
     "authors": [
         "Dmitriy Gavrilenko <diiimonn@gmail.com>"
     ],
-    "description": "Desc",
+    "description": "Animate circular indicator using HTML5 canvas and jQuery",
     "main": "js/spinners/spinners.js",
     "keywords": [
         "spinners",
         "canvas",
-        "jquery"
+        "jquery",
+        "loader"
     ],
     "license": "MIT",
     "ignore": [
